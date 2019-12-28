@@ -1,0 +1,7 @@
+counting alphanumeric characters: 1995
+counting alphabetic characters: 1988
+number of capital letters: 85
+number of lowercase letters: 1903
+numeric character counting: 7
+whitespace counting: 405
+counting unknown characters: 54
